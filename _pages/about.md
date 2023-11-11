@@ -20,4 +20,7 @@ Macroeconomics, Public Economics, Labor Economics
 
 :envelope: [dongmin.chun[at]bok.or.kr](mailto:dongmin.chun@bok.or.kr) / [dmchun90[at]gmail.com](mailto:dmchun90@gmail.com)
 
+:phone: +82-2-759-4263
+
+:round_pushpin: 8F, Office of Economic Modeling & Policy Analysis, Bank of Korea, 39 Namdaemun-ro, Jung-Gu, Seoul, 04531, Korea
 
