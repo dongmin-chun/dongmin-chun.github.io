@@ -9,11 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+Contact Information
+======
+Office of Economic Modeling and Policy Analysis, Bank of Korea
+39, Namdaemun-ro, Jung-gu
+Seoul, 04531, Korea
+
+
+Employment
+======
+* Economist, Office of Economic Modeling and Policy Analysis, Bank of Korea 2023-present
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Economics, Seoul National University, 2023
+* M.S. Economics, Seoul National University, 2017
+* B.S. Economics & Management, Handong University, 2015
+
 
 Work experience
 ======
