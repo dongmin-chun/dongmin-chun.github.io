@@ -16,8 +16,6 @@ I am an Economist at the Bank of Korea. Here is my [CV](https://drive.google.com
 Macroeconomics, Public Economics, Labor Economics
 
 -----
-**Contact Information**
-
 :envelope: [dongmin.chun[at]bok.or.kr](mailto:dongmin.chun@bok.or.kr) / [dmchun90[at]gmail.com](mailto:dmchun90@gmail.com)
 
 :phone: +82-2-759-4263
