@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<font size="2">
 
 ## Employment
 * Economist, Office of Economic Modeling and Policy Analysis, Bank of Korea, 2023-present
@@ -17,7 +16,7 @@ redirect_from:
 
 ## Education
 * Ph.D., Economics, Seoul National University, 2023
-* M.S., Economics, Seoul National University, 2017
+* M.A., Economics, Seoul National University, 2017
 * B.S., Economics & Management, Handong University, 2015
 
 
