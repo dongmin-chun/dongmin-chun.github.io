@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Dongmin Chun"
   avatar           : "dd2.bmp"
-  bio              : "Economist"
-  location         : "39 Namdaemun-ro, Jung-Gu, Seoul, Korea"
-  employer         : "Bank of Korea"
-  #phone            : "+82 2-759-4263"
+  bio              : "Economist / Bank of Korea"
+  location         : "Seoul, Korea"
+  employer         : #"Bank of Korea"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : #"dmchun90[at]gmail[dot]com"
