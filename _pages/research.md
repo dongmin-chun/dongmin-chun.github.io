@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+<font size="2">
+
 ## Working Papers
 * ["The Earned Income Tax Credit and the Tax-benefit Link of Public Pensions"](https://drive.google.com/open?id=1MhdUFc5D7R9VV5yjobNdQpGWJwOwTgmb&authuser=dmchun90%40gmail.com&usp=drive_fs) (**Job Market Paper**)
   *  KAEA (Korea-America Economic Association) Best Job Market Paper Award

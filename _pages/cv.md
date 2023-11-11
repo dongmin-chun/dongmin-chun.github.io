@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+<font size="2">
 
 ## Employment
 * Economist, Office of Economic Modeling and Policy Analysis, Bank of Korea, 2023-present
