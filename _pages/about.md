@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dongmin Chun"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
