@@ -15,7 +15,7 @@ Seoul, 04531, Korea
 
 
 ## Employment
-* Economist, Office of Economic Modeling and Policy Analysis, Bank of Korea 2023-present
+* Economist, Office of Economic Modeling and Policy Analysis, Bank of Korea, 2023-present
 
 
 ## Education
