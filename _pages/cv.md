@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Contact Information
-Office of Economic Modeling and Policy Analysis, Bank of Korea, 39, Namdaemun-ro, Jung-gu
-Seoul, 04531, Korea
 
 
 ## Employment
@@ -19,9 +16,9 @@ Seoul, 04531, Korea
 
 
 ## Education
-* Ph.D. Economics, Seoul National University, 2023
-* M.S. Economics, Seoul National University, 2017
-* B.S. Economics & Management, Handong University, 2015
+* Ph.D., Economics, Seoul National University, 2023
+* M.S., Economics, Seoul National University, 2017
+* B.S., Economics & Management, Handong University, 2015
 
 
 ## Publications
