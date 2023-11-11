@@ -18,6 +18,6 @@ Macroeconomics, Public Economics, Labor Economics
 -----
 **Contact Information**
 
-:envelope: [dongmin.chun[at]bok.or.kr](mailto:dongmin.chun@bok.or.kr) | [dmchun90[at]gmail.com](mailto:dmchun90@gmail.com)
+:envelope: [dongmin.chun[at]bok.or.kr](mailto:dongmin.chun@bok.or.kr) / [dmchun90[at]gmail.com](mailto:dmchun90@gmail.com)
 
 
