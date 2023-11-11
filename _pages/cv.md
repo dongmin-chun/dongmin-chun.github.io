@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Contact Information
-Office of Economic Modeling and Policy Analysis, Bank of Korea
-39, Namdaemun-ro, Jung-gu
+Office of Economic Modeling and Policy Analysis, Bank of Korea, 39, Namdaemun-ro, Jung-gu
 Seoul, 04531, Korea
 
 
@@ -34,8 +33,45 @@ Seoul, 04531, Korea
 * “On the Distributional Effects of the EITC in Life-cycle General Equilibrium Economies”
 
 
-## Conference \& Seminar Presentations
-Bank of Korea, CEPR Eighth European Workshop on Household Finance, CEPAR International Conference 2023 [2023]{style="float:right"}
+## Conference & Seminar Presentations
+* 2023: Bank of Korea, CEPR Eighth European Workshop on Household Finance, CEPAR International Conference 2023
+
+* 2022: Korea University PhD Conference, SNU Macro Seminar, Korean Association of Public Finance (KAPF) Fall Conference, Korea-America Economic Association (KAEA) Job Market Conference, Korea Labor Institute, Asian and Australasian Society of Labour Economics (AASLE) Conference
+
+* 2021: KEA Annual Meeting, SNU Brown Bag
+
+* 2020: Seoul National University (SNU) Macro Seminar
+
+* 2019: Korean Economic Associations (KEA) Annual Meeting
+
+
+## Grants, Honors & Awards
+* The Best Paper Award, Graduate Student Session of KAPF Fall Conference, 2023
+* Best Job Market Paper Award, Korea-America Economic Association, 2022
+* The Best Paper Award, Graduate Student Session of KEA Annual Meeting, 2021
+* PhD Fellowship for Fundamental Academic Fields, 2018–2022
+* Brain Korea 21 Plus Scholarship 2018
+* MA Fellowship for Fundamental Academic Fields 2017
+* National Research Fellowship for Humanities, Korea Student Aid Foundation 2016
+
+
+## Computer Skills
+* Computing: Fortran (with OpenMP), Matlab
+* Econonmetrics: R, STATA
+
+## Languages
+* Korean (native), Japanese (near-native), English (fluent)
+
+## Personal
+* Citizenship of the Republic of Korea
+* Sergeant, Republic of Korea Army 2010–2012
+* Lived in Japan for 10 years
+
+
+## References
+* Professor Jay H. Hong (Advisor): jayhong[at]snu.ac.kr
+* Professor Yongsung Chang (Chair): yongsung.chang[at]gmail.com
+* Professor Jungmin Lee: jmlee90[at]snu.ac.kr
 
 
 
