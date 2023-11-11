@@ -50,9 +50,9 @@ Seoul, 04531, Korea
 * Best Job Market Paper Award, Korea-America Economic Association, 2022
 * The Best Paper Award, Graduate Student Session of KEA Annual Meeting, 2021
 * PhD Fellowship for Fundamental Academic Fields, 2018–2022
-* Brain Korea 21 Plus Scholarship 2018
-* MA Fellowship for Fundamental Academic Fields 2017
-* National Research Fellowship for Humanities, Korea Student Aid Foundation 2016
+* Brain Korea 21 Plus Scholarship, 2018
+* MA Fellowship for Fundamental Academic Fields, 2017
+* National Research Fellowship for Humanities, Korea Student Aid Foundation, 2016
 
 
 ## Computer Skills
