@@ -83,11 +83,11 @@ author:
   name             : "Dongmin Chun"
   avatar           : "dd2.bmp"
   bio              : "Economist / Bank of Korea"
-  location         : "Office of Economic Modelling and Policy Analysis, Bank of Korea, 39 Namdaemun-ro, Jung-Gu, Seoul, 04531, Korea"
+  location         : "Seoul, Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "dmchun90[at]gmail[dot]com"
+  email            : #"dmchun90[at]gmail[dot]com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
