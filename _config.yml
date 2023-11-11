@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dongmin Chun"
-  avatar           : "profile.png"
+  avatar           : "/assets/img/dd2.bmp"
   bio              : "Economist / Bank of Korea"
   location         : "Seoul, Korea"
   employer         :
