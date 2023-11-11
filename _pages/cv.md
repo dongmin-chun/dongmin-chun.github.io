@@ -25,7 +25,7 @@ Seoul, 04531, Korea
 
 
 ## Publications
-* “The Effect of 1995 Tax Reform on Labor Supply in Korea,” Korean Journal of Labor Economics, 41(4):1-30, 2018. (in Korean)
+* “The Effect of 1995 Tax Reform on Labor Supply in Korea,” *Korean Journal of Labor Economics*, 41(4):1-30, 2018. (*in Korean*)
 
 
 ## Working Papers
@@ -64,7 +64,7 @@ Seoul, 04531, Korea
 
 ## Personal
 * Citizenship of the Republic of Korea
-* Sergeant, Republic of Korea Army 2010–2012
+* Sergeant, Republic of Korea Army, 2010–2012
 * Lived in Japan for 10 years
 
 

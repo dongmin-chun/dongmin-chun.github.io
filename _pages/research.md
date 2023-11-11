@@ -20,4 +20,4 @@ author_profile: true
 
 
 ## Publication
-* "The  Effect  of  1995  Tax  Reform  on  Labor  Supply  in  Korea," Korean Journal of Labor Economics, 41(4):1-30, 2018. (in Korean)
+* "The  Effect  of  1995  Tax  Reform  on  Labor  Supply  in  Korea," *Korean Journal of Labor Economics*, 41(4):1-30, 2018. (*in Korean*)
