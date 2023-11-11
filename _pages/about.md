@@ -16,4 +16,4 @@ I am an Economist at the Bank of Korea. Here is my [CV](https://drive.google.com
 
 -----
 **Contact Information**:
-* dongmin.chun[at]bok[dot]or[dot]kr / dmchun90[at]gmail[dot]com
+* dongmin.chun[at]bok.or.kr / dmchun90[at]gmail.com
