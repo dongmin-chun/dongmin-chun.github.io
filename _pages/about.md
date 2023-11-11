@@ -14,4 +14,4 @@ I am an Economist at the Bank of Korea. Here is my [CV](https://drive.google.com
 **Research Interests**: Macroeconomics, Public Economics, Labor Economics
 
 -----
-**Contact Information**: [dongmin.chun[at]bok.or.kr](dongmin.chun@bok.or.kr) | [dmchun90[at]gmail.com](dmchun90@gmail.com)
+**Contact Information**: [dongmin.chun[at]bok.or.kr](mailto:dongmin.chun@bok.or.kr) | [dmchun90[at]gmail.com](mailto:dmchun90@gmail.com)
