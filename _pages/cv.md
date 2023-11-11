@@ -32,6 +32,12 @@ redirect_from:
 * “On the Distributional Effects of the EITC in Life-cycle General Equilibrium Economies”
 
 
+## Work in Progress
+* “How much can the EITC replace the means-tested old-age support?”
+* “Household Labor Supply and the Design of the EITC”
+* “EITC and NIT: Role of General Equilibrium and Social Security”
+
+
 ## Conference & Seminar Presentations
 * 2023: Bank of Korea, CEPR Eighth European Workshop on Household Finance, CEPAR International Conference 2023
 
