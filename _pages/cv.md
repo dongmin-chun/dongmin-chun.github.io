@@ -11,16 +11,16 @@ redirect_from:
 
 
 ## Employment
-* Economist, Office of Economic Modeling and Policy Analysis, Bank of Korea, 2023-present
+* Economist, Office of Economic Modeling and Policy Analysis, Bank of Korea, 2023 - present
 
 
 ## Education
-* Ph.D., Economics, Seoul National University, 2023
+* Ph.D. in Economics, Seoul National University, 2023
   * Dissertation: “Essays on Heterogeneous-agent Macroeconomics and Public Policies”
   * Advisor: Jay H. Hong
   * Committee: Yongsung Chang (Chair), Jungmin Lee, Sun-Bin Kim, ShinHyuck Kang
-* M.A., Economics, Seoul National University, 2017
-* B.S., Economics & Management, Handong University, 2015
+* M.A. in Economics, Seoul National University, 2017
+* B.S. in Economics & Management, Handong University, 2015
 
 
 ## Publications
