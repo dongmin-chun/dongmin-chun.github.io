@@ -75,7 +75,7 @@ redirect_from:
 
 ## References
 * Professor Jay H. Hong (Advisor): [jayhong[at]snu.ac.kr](mailto:jayhong@snu.ac.kr)
-* Professor Yongsung Chang (Chair): [yongsung.chang[at]gmail.com](mailto:yongsung.chang[at]gmail.com)
+* Professor Yongsung Chang: [yongsung.chang[at]gmail.com](mailto:yongsung.chang[at]gmail.com)
 * Professor Jungmin Lee: [jmlee90[at]snu.ac.kr](mailto:jmlee90[at]snu.ac.kr)
 
 
