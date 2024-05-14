@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dongmin Chun (천동민)"
 title_separator          : "-"
-name                     : &name "Dongmin Chun"
+name                     : &name "Dongmin Chun (천동민)"
 description              : &description "personal description"
 url                      : "https://dongmin-chun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
