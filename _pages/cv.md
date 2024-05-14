@@ -50,7 +50,7 @@ redirect_from:
 
 
 ## Grants, Honors & Awards
-* Best Dissertation Award, College of Social Science, Seoul National University, 2023
+* Best Dissertation Award, College of Social Sciences, Seoul National University, 2023
 * The Best Paper Award, Graduate Student Session of KAPF Fall Conference, 2023
 * Best Job Market Paper Award, Korea-America Economic Association, 2022
 * The Best Paper Award, Graduate Student Session of KEA Annual Meeting, 2021
