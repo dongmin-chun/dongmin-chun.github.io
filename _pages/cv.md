@@ -17,8 +17,7 @@ redirect_from:
 ## Education
 * Ph.D. in Economics, Seoul National University, 2023
   * Dissertation: “Essays on Heterogeneous-agent Macroeconomics and Public Policies”
-  * Advisor: Jay H. Hong
-  * Committee: Yongsung Chang (Chair), Jungmin Lee, Sun-Bin Kim, ShinHyuck Kang
+  * Committee: Jay H. Hong (Advisor), Yongsung Chang, Jungmin Lee, Sun-Bin Kim, ShinHyuck Kang
 * M.A. in Economics, Seoul National University, 2017
 * B.S. in Economics & Management, Handong University, 2015
 
@@ -51,6 +50,7 @@ redirect_from:
 
 
 ## Grants, Honors & Awards
+* Best Dissertation Award, College of Social Science, Seoul National University, 2023
 * The Best Paper Award, Graduate Student Session of KAPF Fall Conference, 2023
 * Best Job Market Paper Award, Korea-America Economic Association, 2022
 * The Best Paper Award, Graduate Student Session of KEA Annual Meeting, 2021
