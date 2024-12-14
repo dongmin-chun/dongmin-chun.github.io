@@ -38,6 +38,8 @@ redirect_from:
 
 
 ## Conference & Seminar Presentations
+* 2024: Society of Economic Dynamics (SED) Winter Meeting, KAPF Fall Conference
+
 * 2023: Bank of Korea, CEPR Eighth European Workshop on Household Finance, CEPAR International Conference 2023
 
 * 2022: Korea University PhD Conference, SNU Macro Seminar, Korean Association of Public Finance (KAPF) Fall Conference, Korea-America Economic Association (KAEA) Job Market Conference, Korea Labor Institute, Asian and Australasian Society of Labour Economics (AASLE) Conference
