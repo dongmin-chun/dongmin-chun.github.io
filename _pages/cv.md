@@ -38,7 +38,7 @@ redirect_from:
 
 
 ## Conference & Seminar Presentations
-* 2024: Society of Economic Dynamics (SED) Winter Meeting, KAPF Fall Conference
+* 2024: Society for Economic Dynamics (SED) Winter Meeting, KAPF Fall Conference
 
 * 2023: Bank of Korea, CEPR Eighth European Workshop on Household Finance, CEPAR International Conference 2023
 
