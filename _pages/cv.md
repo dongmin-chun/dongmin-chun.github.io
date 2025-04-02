@@ -11,6 +11,8 @@ redirect_from:
 
 ### Full version is available [here](https://drive.google.com/file/d/1RuAM6H9exeOkiAa7oLN3fioIGGkwLlr5/view?usp=sharing).
 
+---
+
 ## Employment
 * Economist, Office of Economic Modeling and Policy Analysis, Bank of Korea, 2023 - present
 
