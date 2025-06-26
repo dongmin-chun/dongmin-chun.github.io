@@ -12,6 +12,7 @@ author_profile: true
 * ["The Earned Income Tax Credit and the Tax-benefit Link of Public Pensions"](https://drive.google.com/open?id=1MhdUFc5D7R9VV5yjobNdQpGWJwOwTgmb&authuser=dmchun90%40gmail.com&usp=drive_fs) (**Job Market Paper**)
   *  KAEA (Korea-America Economic Association) Best Job Market Paper Award
   *  This version: January 2023
+  *  _Under Review_
 
 * "On the Distributional Effects of the EITC in Life-cycle General Equilibrium Economies"
 
