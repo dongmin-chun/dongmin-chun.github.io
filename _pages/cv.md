@@ -19,8 +19,8 @@ redirect_from:
 
 ## Education
 * Ph.D. in Economics, Seoul National University, 2023
-  * Dissertation: “Essays on Heterogeneous-agent Macroeconomics and Public Policies”
-  * Committee: Jay H. Hong (Advisor), Yongsung Chang, Jungmin Lee, Sun-Bin Kim, ShinHyuck Kang
+  <!--* Dissertation: “Essays on Heterogeneous-agent Macroeconomics and Public Policies”
+  * Committee: Jay H. Hong (Advisor), Yongsung Chang, Jungmin Lee, Sun-Bin Kim, ShinHyuck Kang-->
 * M.A. in Economics, Seoul National University, 2017
 * B.S. in Economics & Management, Handong University, 2015
 
