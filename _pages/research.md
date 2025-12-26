@@ -9,9 +9,8 @@ author_profile: true
 
 
 ## Working Papers
-* "The Earned Income Tax Credit and the Tax-benefit Link of Public Pensions"
+* "The Earned Income Tax Credit and the Tax-benefit Link of Public Pensions" [JMP](https://drive.google.com/open?id=1MhdUFc5D7R9VV5yjobNdQpGWJwOwTgmb&authuser=dmchun90%40gmail.com&usp=drive_fs) [BOKWP](https://www.bok.or.kr/static/jslibrary/pdfjs/viewer.html?file=%2FfileSrc%2Feng%2Fcabdf5d16f9042d384afff385bcf1868%2F1%2F964c5c39c36f4b47ac4d019f5c3035c2.pdf)
   *  KAEA (Korea-America Economic Association) Best Job Market Paper Award
-  *  [JMP](https://drive.google.com/open?id=1MhdUFc5D7R9VV5yjobNdQpGWJwOwTgmb&authuser=dmchun90%40gmail.com&usp=drive_fs), [BOKWP](https://www.bok.or.kr/static/jslibrary/pdfjs/viewer.html?file=%2FfileSrc%2Feng%2Fcabdf5d16f9042d384afff385bcf1868%2F1%2F964c5c39c36f4b47ac4d019f5c3035c2.pdf)
 
 * "On the Distributional Effects of the EITC in Life-cycle General Equilibrium Economies"
 
